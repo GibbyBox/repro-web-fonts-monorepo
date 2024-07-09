@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@acme/fonts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "files": [
+    "assets"
+  ],
+  "main": "assets/index.js"
+}
